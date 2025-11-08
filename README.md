@@ -1,16 +1,41 @@
-## Hi I'm Jerrick
+# Hello, I'm Jerrick.
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**jerrickharvey23/jerrickharvey23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a current student at ASU. I'm looking forward to make some new projects along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+
+My journey in cybersecurity has led me to develop a passion for it, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+
+
+## Tools
+
+
+### Network
+<div>
+ 
+</div>
+
+### Endpoint
+<div>
+
+</div>
+
+### SIEM
+<div>
+
+</div>
+
+## Certifications
+<div>
+
+</div>
+
+## Projects
